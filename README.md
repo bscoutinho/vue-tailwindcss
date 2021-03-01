@@ -1,4 +1,4 @@
-# youtube
+## Vue Tailwind CSS - Twitter Clone UI
 
 ## Project setup
 ```
